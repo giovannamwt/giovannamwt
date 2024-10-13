@@ -8,9 +8,9 @@
 
 Meu nome é Giovanna Rodrigues, tenho 27 anos. 🇧🇷
 
-Estudo programação fulll stack na Infinity School, e estou me especializando em `front-end`.
+Formada em programação fulll stack na Infinity School, com foco em `front-end`.
 
-Sou formada em Publicidade e trabalhei na área do design durante alguns anos. E como gosto de tecnologia, resolvi fazer a transição de carreira.
+Sou bacharel em Publicidade, trabalhei na área do design durante alguns anos e como gosto de tecnologia, optei por fazer a transição de carreira.
 
 Quero muito ser uma profissional reconhecida pela excelência dos resultados que entrego. Com esse propósito, me dedico diariamente ao estudo e à aplicação dos meus conhecimentos em projetos práticos.
 
